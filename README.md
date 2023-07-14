@@ -1,4 +1,4 @@
-# isoMini: Simple ISO-9660 Library 
+# isoMini: Simple ISO-9660 Library
 
 Minimal *Nix library for reading ISO-9660 filesystems. Designed to easily
 expose raw filesystem structure information to the user w/o sacrificing
